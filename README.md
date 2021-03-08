@@ -26,7 +26,7 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-# Screenshot
+# Screenshots
 ## Demo mock-up
 [![11-express-homework-demo-01.png](https://i.postimg.cc/wTHpyK9q/11-express-homework-demo-01.png)](https://postimg.cc/mhdqJ5cJ)
 [![11-express-homework-demo-02.png](https://i.postimg.cc/zGGY7nL4/11-express-homework-demo-02.png)](https://postimg.cc/vckKHxtv)
